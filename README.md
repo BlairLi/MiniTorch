@@ -1,5 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5gWs3A8E)
-# MiniTorch Module 4
+# MiniTorch
+This project is Yucan's implemented version of the course project [minitorch](https://minitorch.github.io/) at Cornell Tech.
+
+Instructed by Professor Sasha Rush
+
+## Description
 
 <img src="https://minitorch.github.io/minitorch.svg" width="50%">
 
